@@ -35,3 +35,5 @@
 ⚜️ | [INVITO RED](https://discord.gg/s7ccsuT)
 
 🛠️ | [INVITO SUPPORT SERVER](https://discord.gg/K2q8PFg) 
+
+### [VEDI IL CHANGELOG](https://github.com/IsD4n73/DD-Cody/blob/master/Changelog.md) 
