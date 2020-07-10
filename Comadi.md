@@ -77,6 +77,8 @@
 
 `!yt <ricerca>` - Effettuata una ricerca su Youtube 
 
+`!ig <ricerca>` - Effettua una ricerca su Instagram 
+
 `!battle` - Per fare una guerra contro il bot
 
 `!rps <sasso/carta/forbici>` - Gioca a sasso carta forbici  con il bot
