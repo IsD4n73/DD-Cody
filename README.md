@@ -3,7 +3,7 @@
 
 :white_check_mark: | +100 comandi
 
-:flag_it: | BOT ITALIANO
+🇮🇹 | BOT ITALIANO
 
 MODULI:
 
@@ -11,7 +11,7 @@ MODULI:
 
 :bar_chart: | STATISTICHE
 
-:card_box: | LOGS
+🗃️ | LOGS
 
 :gear: | MODERAZIONE
 
