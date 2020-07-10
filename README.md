@@ -5,7 +5,7 @@
 
 🇮🇹 | BOT ITALIANO
 
-MODULI:
+# MODULI:
 
 :heavy_dollar_sign: | ECONOMIA
 
@@ -26,3 +26,12 @@ MODULI:
 :bulb: | SUGGERIMENTI ATTIVI
 
 :infinity: | E TANTO ALTRO...
+
+
+# INVITI
+
+🔰 | [INVITO CODY](https://discordapp.com/oauth2/authorize?client_id=705720271364947998&scope=bot&permissions=2146958847) 
+
+⚜️ | [INVITO RED](https://discord.gg/s7ccsuT)
+
+🛠️ | [INVITO SUPPORT SERVER](https://discord.gg/K2q8PFg) 
