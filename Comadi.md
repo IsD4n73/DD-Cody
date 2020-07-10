@@ -145,7 +145,7 @@
 
 # VERIFICA
 
-`!genera` - Genera il codice per la verifica
+`!codice` - Genera il codice per la verifica
 
 `!verify <codice>` - Effettua la verifica
 
