@@ -25,6 +25,8 @@
 
 :bulb: | SUGGERIMENTI ATTIVI
 
+📄 | DOCUMENTI
+
 :infinity: | E TANTO ALTRO...
 
 
