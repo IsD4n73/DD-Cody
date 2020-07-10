@@ -89,3 +89,36 @@
 `!love <@user>` - Misura l'amore che c'è tra te e l'utente 
 
 `!piffero` - Mostra la lunghezza del piffero
+
+
+# ALTRO
+
+`!changelog` - Mostra gli aggiornamenti del bot
+
+`!help` - Mostra plugin dei comandi
+
+`!infobot` - Mostra alcune informazioni sul bot
+
+`!avatar <@user>` - Mostra l'immagine  di profilo dell utente menzionato
+
+`!invite` - L'invito per il bot
+
+`!bot-stats` - Mostra le statistiche del bot
+
+`!community` - Mostra l'invito della community di CODY
+
+`!sep` - Aggiunge un separatore
+
+`!serverinfo` - Mostra informazioni sul server
+
+'!userinfo' - Mostra informazioni sull utente 
+
+`!sugg: <suggerimento>` - Suggerisci qualcosa al server 
+
+`!suggerisci <suggerimento>` - Suggerisci qualcosa al creatore del bot
+
+**{ADMIN}**`!welset <#canale> <msssaggio>` - Setta il messaggio di benvenuto 
+
+**{ADMIN}**`!canale-suggerimenti <#canale>` - Setta il canale per i suggerimenti del server
+
+**{ADMIN}**`!modlog <#canale>` - Setta il canale per il log  
