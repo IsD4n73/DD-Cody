@@ -25,7 +25,7 @@
 
 `!mute <@user> <motivo>` - Muta un utente a tempo indeterminato
 
-!unmute <@user>` - Smuta un utente
+`!unmute <@user>` - Smuta un utente
 
 `!giveaway <#canale> <premio>` -  Inizia un giveaway nel canale indicato
 
@@ -39,20 +39,20 @@
 
 `!ruolo <@utente> <@ruolo>` - Aggiunge il ruolo alla persona
 
-!truolo <@utente> <@ruolo>` - Toglie il ruolo alla persona
+`!truolo <@utente> <@ruolo>` - Toglie il ruolo alla persona
 
-`!lockdown <lock/unlock> - Blocca/sblocca il canale
+`!lockdown <lock/unlock>` - Blocca/sblocca il canale
 
 `!test <on/off>` - Avvisa che in quel canale c'è un test in corso 
 
 
 # GENERALE
 
-**!dm <@user> <messagio>** - Manda un messaggio all'utente in privato
+`!dm <@user> <messagio>` - Manda un messaggio all'utente in privato
 
-**!rate <voto>** - Vota il server con max 5 stelle
+`!rate <voto>` - Vota il server con max 5 stelle
 
-**!stelle** - Mostra le stelle del server
+`!stelle` - Mostra le stelle del server
 
 `!morte <@utente>` - Mostra l'età di morte della persona 
 
@@ -68,7 +68,7 @@
 
 `!list` - Lista degli utenti nel server
 
-`!afk <on/off> -  Per settare il vostro status AFK  
+`!afk <on/off>` -  Per settare il vostro status AFK  
 
 `!img <testo>` - Trasforma il testo in un immagine 
 
@@ -86,6 +86,6 @@
 
 `!fish` - Vai al lago di pesca e divertiti
 
-`!love <@user> - Misura l'amore che c'è tra te e l'utente 
+`!love <@user>` - Misura l'amore che c'è tra te e l'utente 
 
 `!piffero` - Mostra la lunghezza del piffero
