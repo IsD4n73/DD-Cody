@@ -12,6 +12,7 @@
 
 `!verifica-help` - Mostra comandi per la verifica
 
+`!comandi` - Mostra questa pagina
 
 # ADMIN
 
