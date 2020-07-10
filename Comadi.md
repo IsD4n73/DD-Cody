@@ -117,8 +117,33 @@
 
 `!suggerisci <suggerimento>` - Suggerisci qualcosa al creatore del bot
 
-**{ADMIN}**`!welset <#canale> <msssaggio>` - Setta il messaggio di benvenuto 
+**{ADMIN}** `!welset <#canale> <msssaggio>` - Setta il messaggio di benvenuto 
 
-**{ADMIN}**`!canale-suggerimenti <#canale>` - Setta il canale per i suggerimenti del server
+**{ADMIN}** `!canale-suggerimenti <#canale>` - Setta il canale per i suggerimenti del server
 
-**{ADMIN}**`!modlog <#canale>` - Setta il canale per il log  
+**{ADMIN}** `!modlog <#canale>` - Setta il canale per il log 
+
+
+# DOCUMENTI
+
+`!documenti` - Vedi i tuoi documenti
+
+`!vedi-doc <@utente>` - Vedi i documenti di una persona
+
+`!crea-doc <Nome> <Cognome> <Eta> <Provenienza>` - Crea i tuoi documenti 
+
+`!mod-{PARAMETRO}  <Nuovo parametro>` - Modifica un parametro dei documenti 
+{**__PARAMETRI:__** nome, cognome, eta, prov} 
+
+`!multa <prezzo> <@utente>` - Per multare qualcuno
+
+`!togli-multa <@utente>` - Rimuovi multa 
+
+
+# VERIFICA
+
+`!genera` - Genera il codice per la verifica
+
+`!verify <codice>` - Effettua la verifica
+
+**{ADMIN}** `!verificato <@ruolo>` - Setta il ruolo da dare agli utenti verificati
