@@ -150,3 +150,24 @@
 `!verify <codice>` - Effettua la verifica
 
 **{ADMIN}** `!verificato <@ruolo>` - Setta il ruolo da dare agli utenti verificati
+
+
+# LISTA
+
+`!lista-film` - Mostra la lista dei film guardati
+
+`!add-film <film>` - Aggiungi film alla lista
+
+`!remove-film <film>` - Rimuovi film dalla lista
+
+`!reset-film`  -  Resetta modulo film
+
+`!lista-stv` - Mostra la lista delle serie tv guardate
+
+`!add-stv <serie tv>` - Aggiungi serie tv alla lista
+
+`!remove-stv <serie tv>` - Rimuovi serie tv dalla lista
+
+`!reset-stv`  -  Resetta modulo serietv
+
+
