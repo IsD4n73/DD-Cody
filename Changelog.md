@@ -77,3 +77,10 @@
 - aggiunto comando `!ig`
 - migliorata estetica 
 - fix bug minori
+
+
+### __**v1.18**__
+- aggiunto nuovo plugin `lista`
+- aggiunta lista film
+- aggiunta lista serie tv
+- cambiato comando `!list` > `!user-list`
