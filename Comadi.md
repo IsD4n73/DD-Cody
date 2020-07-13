@@ -122,6 +122,9 @@
 
 `!suggerisci <suggerimento>` - Suggerisci qualcosa al creatore del bot
 
+
+`!genpass` - Genera una password
+
 **{ADMIN}** `!welset <#canale> <msssaggio>` - Setta il messaggio di benvenuto 
 
 **{ADMIN}** `!canale-suggerimenti <#canale>` - Setta il canale per i suggerimenti del server
