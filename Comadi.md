@@ -93,6 +93,8 @@
 
 `!piffero` - Mostra la lunghezza del piffero
 
+`!facts <messaggio>` - Trasforma il messaggio in un fact
+
 
 # ALTRO
 
