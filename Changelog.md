@@ -88,6 +88,6 @@
 
 ### __**v1.19**__ 
 - aggiunto comando `!facts`
-- fix bug vari
 - aggiunto generatore di password `!genpass`
 - aggiunto comando `!logo` 
+- aggiunto comando `!wiki`
