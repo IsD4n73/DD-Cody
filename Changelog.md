@@ -84,3 +84,9 @@
 - aggiunta lista film
 - aggiunta lista serie tv
 - cambiato comando `!list` > `!user-list`
+
+
+### __**v1.19**__ 
+-aggiunto comando `!facts`
+-fix bug vari
+-aggiunto generatore di password `!genpass`
