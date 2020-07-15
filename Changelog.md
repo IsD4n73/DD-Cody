@@ -94,8 +94,9 @@
 
 
 ### __**v1.20**__
-- cambiato comando `!google` > `!gg` + ottimizzazione 
+- ottimizzato comando `!google`
 - ottimizzatpo comando `!ig`
 - ottimizzatpo comando `!yt`
 - ottimizzatpo comando `!wiki`
+- aggiunto comando `!firma`
 - fix bug vari
