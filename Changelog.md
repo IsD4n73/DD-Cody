@@ -91,3 +91,11 @@
 - aggiunto generatore di password `!genpass`
 - aggiunto comando `!logo` 
 - aggiunto comando `!wiki`
+
+
+### __**v1.20**__
+- cambiato comando `!google` > `!gg` + ottimizzazione 
+- ottimizzatpo comando `!ig`
+- ottimizzatpo comando `!yt`
+- ottimizzatpo comando `!wiki`
+- fix bug vari
