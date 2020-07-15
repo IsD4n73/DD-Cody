@@ -73,7 +73,7 @@
 
 `!img <testo>` - Trasforma il testo in un immagine 
 
-`!google <ricerca>` - Effettua una ricerca su Google 
+`!gg <ricerca>` - Effettua una ricerca su Google 
 
 `!yt <ricerca>` - Effettuata una ricerca su Youtube 
 
