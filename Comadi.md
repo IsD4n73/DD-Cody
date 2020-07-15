@@ -73,7 +73,7 @@
 
 `!img <testo>` - Trasforma il testo in un immagine 
 
-`!gg <ricerca>` - Effettua una ricerca su Google 
+`!google <ricerca>` - Effettua una ricerca su Google 
 
 `!yt <ricerca>` - Effettuata una ricerca su Youtube 
 
@@ -97,6 +97,8 @@
 `!piffero` - Mostra la lunghezza del piffero
 
 `!facts <messaggio>` - Trasforma il messaggio in un fact
+
+!firma <fiema> - Firma tramite immagine
 
 
 # ALTRO
