@@ -79,8 +79,9 @@
 
 `!ig <ricerca>` - Effettua una ricerca su Instagram 
 
-
 `!wiki <ricerca>` - Effettua una ricerca su Wikipedia 
+
+`!dex <pokemon>` - Effettua una ricerca su un pokemon 
 
 `!battle` - Per fare una guerra contro il bot
 
