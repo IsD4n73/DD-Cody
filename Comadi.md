@@ -46,6 +46,12 @@
 
 `!test <on/off>` - Avvisa che in quel canale c'è un test in corso 
 
+`!welset <#canale> <msssaggio>` - Setta il messaggio di benvenuto 
+
+`!canale-suggerimenti <#canale>` - Setta il canale per i suggerimenti del server
+
+`!modlog <#canale>` - Setta il canale per il log 
+
 
 # GENERALE
 
@@ -124,6 +130,8 @@
 
 '!userinfo' - Mostra informazioni sull utente 
 
+`!user-stats` - Mostra statistiche utente
+
 `!sugg: <suggerimento>` - Suggerisci qualcosa al server 
 
 `!suggerisci <suggerimento>` - Suggerisci qualcosa al creatore del bot
@@ -131,12 +139,6 @@
 `!genpass` - Genera una password
 
 `!logo <frase>` - Trasforma la frase in un logo
-
-**{ADMIN}** `!welset <#canale> <msssaggio>` - Setta il messaggio di benvenuto 
-
-**{ADMIN}** `!canale-suggerimenti <#canale>` - Setta il canale per i suggerimenti del server
-
-**{ADMIN}** `!modlog <#canale>` - Setta il canale per il log 
 
 
 # DOCUMENTI
