@@ -184,4 +184,4 @@
 
 `!reset-stv`  -  Resetta modulo serietv
 
-
+`!lista-warn` - Mostra la lista dei richiami
