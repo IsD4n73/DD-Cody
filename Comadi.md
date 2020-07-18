@@ -185,3 +185,21 @@
 `!reset-stv`  -  Resetta modulo serietv
 
 `!lista-warn` - Mostra la lista dei richiami
+
+
+# LOTTERIA
+
+`!lottery` - Mostra le informazioni della lotteria
+
+`!lottery <1-100>` - Punta su un numero della lotteria
+
+`!controlla-lotteria` - Mostra l esito della lotteria
+
+`!coins` - Mostra l attuale bilancio
+
+`!daily` - Prendi la somma giornaliera di coins
+
+**{D4n73}** `!start-lotteria` - Inizia la lotteria
+
+**{D4n73}** `!add-coins <somma> <@utente>` -  Aggiungi coins all utente
+
