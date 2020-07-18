@@ -100,3 +100,9 @@
 - ottimizzatpo comando `!wiki`
 - aggiunto comando `!firma`
 - fix bug vari
+
+
+### __**v1.21**__ 
+- aggiunto comando `!dex`
+- aggiunto comando `!user-stats`
+- aggiunto comando `!lista-warn`
