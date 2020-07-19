@@ -10,7 +10,13 @@
 
 `!doc-help` - Mostra comandi per i documenti
 
+`!economia-help` - Mostra comandi per l'economia
+
 `!verifica-help` - Mostra comandi per la verifica
+
+`!lista-help` - Mostra comandi lista
+
+`!casino-help` - Mostra comandi casino
 
 `!comandi` - Mostra questa pagina
 
@@ -94,8 +100,6 @@
 `!rps <sasso/carta/forbici>` - Gioca a sasso carta forbici  con il bot
 
 `!emoji <nome_emoji>` - Utilizza emoji personalizzate (anche animate) 
-
-`!slot` - Gioca alle slot machines
 
 `!fish` - Vai al lago di pesca e divertiti
 
@@ -187,7 +191,7 @@
 `!lista-warn` - Mostra la lista dei richiami
 
 
-# LOTTERIA
+# CASINO
 
 `!lottery` - Mostra le informazioni della lotteria
 
@@ -200,6 +204,10 @@
 `!daily` - Prendi la somma giornaliera di coins
 
 `!coin-flip` - Fai testa o croce per vincere qualche coins
+
+`!slot <puntata>` - Gioca alle slot machines {la puntata e opzionale} 
+
+`!roulette <puntata> <dove punti>` - Gioca alla rooulette
 
 **{D4n73}** `!start-lotteria` - Inizia la lotteria
 
