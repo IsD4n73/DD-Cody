@@ -199,6 +199,8 @@
 
 `!daily` - Prendi la somma giornaliera di coins
 
+`!coin-flip` - Fai testa o croce per vincere qualche coins
+
 **{D4n73}** `!start-lotteria` - Inizia la lotteria
 
 **{D4n73}** `!add-coins <somma> <@utente>` -  Aggiungi coins all utente
