@@ -106,3 +106,14 @@
 - aggiunto comando `!dex`
 - aggiunto comando `!user-stats`
 - aggiunto comando `!lista-warn`
+
+
+### __**v1.22**__ 
+- aggiunto casino
+- aggiunto plugin casino `!casino-help`
+- aggiunto comando `!coin-flip`
+- aggiunto comando `!roulette`
+- aggiunto comando `!coin-top`
+- ottimizzato comando `!slot`
+- aggiunto comando `!bj`
+- fix bug vari
