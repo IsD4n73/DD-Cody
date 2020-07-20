@@ -207,7 +207,7 @@
 
 `!slot <puntata>` - Gioca alle slot machines {la puntata e opzionale} 
 
-`!roulette <puntata> <dove punti>` - Gioca alla rooulette
+`!roulette <puntata> <dove punti>` - Gioca alla roulette 
 
 **{D4n73}** `!start-lotteria` - Inizia la lotteria
 
