@@ -209,6 +209,12 @@
 
 `!roulette <puntata> <dove punti>` - Gioca alla roulette 
 
+`!bj <puntata>` - Gioca a blackjack 
+
+`!hit` - Pesca una carta a blackjack 
+
+`!stand` - Stai a blackjack
+
 **{D4n73}** `!start-lotteria` - Inizia la lotteria
 
 **{D4n73}** `!add-coins <somma> <@utente>` -  Aggiungi coins all utente
