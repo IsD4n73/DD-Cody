@@ -145,6 +145,32 @@
 `!logo <frase>` - Trasforma la frase in un logo
 
 
+# ECONOMIA
+
+`!bal` - Mostra l'attuale conto
+
+`!soldi <@utente>` - Mostra i soldi di un utente
+
+`!with <somma/all>` - Preleva una somma di denaro
+
+`!dep <somma/all>` - Deposita una somma di denaro
+
+`!pay <somma> <@user>` - Dai una somma di denaro ad un utente
+
+`!work` - Lavoro del tutto legale
+
+`!heist` -  Effettua una rapina
+
+`!crime` - Effettua un lavoro per gente poco raccomandabile 
+
+`!rob <@user> ` - Prova a derubare un utente
+
+`!top` - Mostra la classifica dei piu ricchi del server
+
+`!pulisci` - Pulisci i soldi sporchi
+
+
+
 # DOCUMENTI
 
 `!documenti` - Vedi i tuoi documenti
@@ -200,6 +226,10 @@
 `!controlla-lotteria` - Mostra l esito della lotteria
 
 `!coins` - Mostra l attuale bilancio
+
+`!cambia-soldi <somma>`  - Cambia soldi in coins
+
+`!cambia-coins <somma>`  - Cambia coins in soldi
 
 `!daily` - Prendi la somma giornaliera di coins
 
