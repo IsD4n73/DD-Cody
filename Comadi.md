@@ -24,7 +24,9 @@
 
 `!clear <n.messaggi>` - Cancella messaggi precedenti
 
-`!ban <@user> <motivo>` - Banna un utente
+`!ban <@user/ID> <motivo>` - Banna un utente
+
+`!unban <@user/ID>` - Sbanna un utente
 
 `!warn <@user> <motivo>` - Warna un utente
 
