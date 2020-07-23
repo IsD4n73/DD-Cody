@@ -111,7 +111,11 @@
 
 `!facts <messaggio>` - Trasforma il messaggio in un fact
 
-!firma <fiema> - Firma tramite immagine
+`!firma <firma>` - Firma tramite immagine
+
+`!ph <messaggio 1>/<messaggio 2>` - Trasforma il messaggio in un logo familiare
+
+`!vota <messaggio>` - Effettua una votazione
 
 
 # ALTRO
