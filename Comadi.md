@@ -14,8 +14,6 @@
 
 `!verifica-help` - Mostra comandi per la verifica
 
-`!lista-help` - Mostra comandi lista
-
 `!casino-help` - Mostra comandi casino
 
 `!rpg-help` - Mostra comandi rpg
@@ -119,6 +117,8 @@
 
 `!vota <messaggio>` - Effettua una votazione
 
+`!drake <messaggio1> - <messagio2>` - Trasforma i messaggi inel meme di drake
+
 
 # ALTRO
 
@@ -151,6 +151,24 @@
 `!genpass` - Genera una password
 
 `!logo <frase>` - Trasforma la frase in un logo
+
+`!lista-film` - Mostra la lista dei film guardati
+
+`!add-film <film>` - Aggiungi film alla lista
+
+`!remove-film <film>` - Rimuovi film dalla lista
+
+`!reset-film`  -  Resetta modulo film
+
+`!lista-stv` - Mostra la lista delle serie tv guardate
+
+`!add-stv <serie tv>` - Aggiungi serie tv alla lista
+
+`!remove-stv <serie tv>` - Rimuovi serie tv dalla lista
+
+`!reset-stv`  -  Resetta modulo serietv
+
+`!lista-warn` - Mostra la lista dei richiami
 
 
 # ECONOMIA
@@ -204,26 +222,6 @@
 
 **{ADMIN}** `!verificato <@ruolo>` - Setta il ruolo da dare agli utenti verificati
 
-
-# LISTA
-
-`!lista-film` - Mostra la lista dei film guardati
-
-`!add-film <film>` - Aggiungi film alla lista
-
-`!remove-film <film>` - Rimuovi film dalla lista
-
-`!reset-film`  -  Resetta modulo film
-
-`!lista-stv` - Mostra la lista delle serie tv guardate
-
-`!add-stv <serie tv>` - Aggiungi serie tv alla lista
-
-`!remove-stv <serie tv>` - Rimuovi serie tv dalla lista
-
-`!reset-stv`  -  Resetta modulo serietv
-
-`!lista-warn` - Mostra la lista dei richiami
 
 
 # CASINO
