@@ -117,3 +117,23 @@
 - ottimizzato comando `!slot`
 - aggiunto comando `!bj`
 - fix bug vari
+
+### **__v1.23__**
+-aggiunto comando `!cambia-coins`
+-aggiunto comando `!cambia-soldi`
+-aggiunto comando `!pulisci`
+-aggiunto comando `!unban`
+-ottimizzato comando `!dep`
+-ottimizzato comando `!with` 
+-ottimizzato comando `!rps`
+-ottimizzato comando `!ban`
+
+### **__v1.24__**
+-bug fix
+-aggiunto RPG
+-aggiunto plugin RPG `!rpg-help`
+-aggiunto comando `!vota`
+-aggiunto comando `!ph`
+-aggiunto comando `!shop`
+-aggiunto comando `!io`
+-aggiunto comando `!farm`
