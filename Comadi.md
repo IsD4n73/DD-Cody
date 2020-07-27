@@ -18,6 +18,8 @@
 
 `!casino-help` - Mostra comandi casino
 
+`!rpg-help` - Mostra comandi rpg
+
 `!comandi` - Mostra questa pagina
 
 # ADMIN
@@ -175,6 +177,7 @@
 
 `!pulisci` - Pulisci i soldi sporchi
 
+`!shop` - Mostra gli oggetti in vendita
 
 
 # DOCUMENTI
@@ -254,4 +257,23 @@
 **{D4n73}** `!start-lotteria` - Inizia la lotteria
 
 **{D4n73}** `!add-coins <somma> <@utente>` -  Aggiungi coins all utente
+
+
+# RPG
+
+`!io` - Mostra le statistiche personaggio 
+
+`!shop` - Mostra il negozio
+
+`!buy <item>` - Compra un oggetto
+
+`!farm` - Farma per fare soldi 
+
+`!duello <@utente>` - Inizia un duello con l utente
+
+`!attacca <@utente>` - Attacca durante un duello
+
+`!difendi` - Difenditi durante un duello
+
+**!abbandona <@utente>** - Abbandona il duello con l'utente 
 
