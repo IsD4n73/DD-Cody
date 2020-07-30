@@ -119,21 +119,28 @@
 - fix bug vari
 
 ### **__v1.23__**
--aggiunto comando `!cambia-coins`
--aggiunto comando `!cambia-soldi`
--aggiunto comando `!pulisci`
--aggiunto comando `!unban`
--ottimizzato comando `!dep`
--ottimizzato comando `!with` 
--ottimizzato comando `!rps`
--ottimizzato comando `!ban`
+- aggiunto comando `!cambia-coins`
+- aggiunto comando `!cambia-soldi`
+- aggiunto comando `!pulisci`
+- aggiunto comando `!unban`
+- ottimizzato comando `!dep`
+- ottimizzato comando `!with` 
+- ottimizzato comando `!rps`
+- ottimizzato comando `!ban`
 
 ### **__v1.24__**
--bug fix
--aggiunto RPG
--aggiunto plugin RPG `!rpg-help`
--aggiunto comando `!vota`
--aggiunto comando `!ph`
--aggiunto comando `!shop`
--aggiunto comando `!io`
--aggiunto comando `!farm`
+- bug fix
+- aggiunto RPG
+- aggiunto plugin RPG `!rpg-help`
+- aggiunto comando `!vota`
+- aggiunto comando `!ph`
+- aggiunto comando `!shop`
+- aggiunto comando `!io`
+- aggiunto comando `!farm`
+
+### __**v1.25**__
+- aggiunti duelli
+- aggiunto comando `!duello`
+- aggiunto comando `!attacca`
+- aggiunto comando `!abbandona`
+- aggiunto comando `!drake`
