@@ -18,6 +18,8 @@
 
 `!rpg-help` - Mostra comandi rpg
 
+`!immagini-help` - Mostra comandi pimmagini
+
 `!comandi` - Mostra questa pagina
 
 # ADMIN
@@ -303,3 +305,4 @@
 
 `!unlock  <testo>` - Sblocca un trofeo :) 
 
+`!logo <frase>` - Trasforma la frase in un logo
