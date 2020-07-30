@@ -131,7 +131,7 @@
 
 `!serverinfo` - Mostra informazioni sul server
 
-'!userinfo' - Mostra informazioni sull utente 
+`!userinfo` - Mostra informazioni sull utente 
 
 `!user-stats` - Mostra statistiche utente
 
@@ -140,8 +140,6 @@
 `!suggerisci <suggerimento>` - Suggerisci qualcosa al creatore del bot
 
 `!genpass` - Genera una password
-
-`!logo <frase>` - Trasforma la frase in un logo
 
 `!lista-film` - Mostra la lista dei film guardati
 
