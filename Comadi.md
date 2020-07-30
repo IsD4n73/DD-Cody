@@ -79,13 +79,9 @@
 
 `!ticket <argomento>` - Apre un ticket per l'astistenza
 
-`!unlock  <testo>` - Sblocca un trofeo :) 
-
 `!list` - Lista degli utenti nel server
 
 `!afk <on/off>` -  Per settare il vostro status AFK  
-
-`!img <testo>` - Trasforma il testo in un immagine 
 
 `!google <ricerca>` - Effettua una ricerca su Google 
 
@@ -109,15 +105,8 @@
 
 `!piffero` - Mostra la lunghezza del piffero
 
-`!facts <messaggio>` - Trasforma il messaggio in un fact
-
-`!firma <firma>` - Firma tramite immagine
-
-`!ph <messaggio 1>/<messaggio 2>` - Trasforma il messaggio in un logo familiare
-
 `!vota <messaggio>` - Effettua una votazione
 
-`!drake <messaggio1> - <messagio2>` - Trasforma i messaggi inel meme di drake
 
 
 # ALTRO
@@ -273,5 +262,44 @@
 
 `!difendi` - Difenditi durante un duello
 
-**!abbandona <@utente>** - Abbandona il duello con l'utente 
+`!abbandona <@utente>` - Abbandona il duello con l'utente 
+
+
+# IMMAGINI
+
+`!sale <@utente>` -  Versa del sale sull utente
+
+`!gay <@utente>` - Fai l'avatar dell'utente gay
+
+`!inverti <@utente>` - Inverti l'avatar dell'utente
+
+`!neve <@utente>` - Fai l'avatar dell'utente con la neve
+
+`!comunista <@utente>` - Fai l'avatar dell'utente comunista
+
+`!deepfry <@utente>` - Fai l'avatar dell'utente deepfry
+
+`!b&n <@utente>` - Fai l'avatar dell'utente in bianco e nero
+
+`!blur <@utente>` - Fai l'avatar dell'utente con ka sfocatura
+
+`!magia <@utente>` - Fai l'avatar dell'utente magico
+
+`!floor-is <messaggio>` - Il pavimento è...
+
+`!over-joke <@utente>` - Fai passare lo scherzo sulla testa
+
+`!joke <@utente>` - "Ti sembra che sto scherzando"
+
+`!drake <messaggio1> - <messagio2>` - Trasforma i messaggi nel meme di drake
+
+`!facts <messaggio>` - Trasforma il messaggio in un fact
+
+`!firma <firma>` - Firma tramite immagine
+
+`!ph <messaggio 1>/<messaggio 2>` - Trasforma il messaggio in un logo familiare
+
+`!img <testo>` - Trasforma il testo in un immagine
+
+`!unlock  <testo>` - Sblocca un trofeo :) 
 
