@@ -12,8 +12,6 @@
 
 `!economia-help` - Mostra comandi per l'economia
 
-`!verifica-help` - Mostra comandi per la verifica
-
 `!casino-help` - Mostra comandi casino
 
 `!rpg-help` - Mostra comandi rpg
@@ -159,6 +157,12 @@
 
 `!lista-warn` - Mostra la lista dei richiami
 
+`!codice` - Genera il codice per la verifica
+
+`!verify <codice>` - Effettua la verifica
+
+**{ADMIN}** `!verificato <@ruolo>` - Setta il ruolo da dare agli utenti verificati
+
 
 # ECONOMIA
 
@@ -201,16 +205,6 @@
 `!multa <prezzo> <@utente>` - Per multare qualcuno
 
 `!togli-multa <@utente>` - Rimuovi multa 
-
-
-# VERIFICA
-
-`!codice` - Genera il codice per la verifica
-
-`!verify <codice>` - Effettua la verifica
-
-**{ADMIN}** `!verificato <@ruolo>` - Setta il ruolo da dare agli utenti verificati
-
 
 
 # CASINO
