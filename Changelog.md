@@ -144,3 +144,12 @@
 - aggiunto comando `!attacca`
 - aggiunto comando `!abbandona`
 - aggiunto comando `!drake`
+
+### __**v1.26**__
+- fix bug vari
+- aggiunto comando `!boobs`
+- aggiunto comando `!ass`
+- aggiunto comando `!butts`
+- aggiunto comando `!nsfw`
+- aggiunto comando `!over-joke`
+- aggiunto comando `!joke`
