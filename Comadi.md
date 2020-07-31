@@ -304,3 +304,23 @@
 `!unlock  <testo>` - Sblocca un trofeo :) 
 
 `!logo <frase>` - Trasforma la frase in un logo
+
+`!food` - Immagini random di cibo
+
+`!cat` - Immagini random di gatti
+
+`!doge <testo sopra>/<testo sotto>` - Crea il meme del doge
+
+`!bad <@utente>` - Dí all utente che è cattivo
+
+`!spazzatura <@utente>` - Butta qualcuno nella spazzatura 
+
+**{NSFW}** `!ass` - Mostra fondoschiena
+
+**{NSFW}** `!boobs` - Mostra pere
+
+**{NSFW}** `!hass` - Mostra fondoschiena hentai
+
+**{NSFW}** `!hboobs` - Mostra pere hentai
+
+**{NSFW}** `!nsfw` - Mostra random hentai
