@@ -318,3 +318,5 @@
 **{NSFW}** `!hboobs` - Mostra pere hentai
 
 **{NSFW}** `!nsfw` - Mostra random hentai
+
+**{NSFW}** `!anal` - Mostra random anal
