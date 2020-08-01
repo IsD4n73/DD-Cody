@@ -153,3 +153,18 @@
 - aggiunto comando `!nsfw`
 - aggiunto comando `!over-joke`
 - aggiunto comando `!joke`
+
+### __**v1.27**__
+- aggiunto plugin immagini `!imagini-help`
+- aggiunto comando `!sale`
+- aggiunto comando `!gay`
+- aggiunto comando `!inverti`
+- aggiunto comando `!neve`
+- aggiunto comando `!comunista`
+- aggiunto comando `!deepfry`
+- aggiunto comando `!b&n`
+- aggiunto comando `!blur `
+- aggiunto comando `!magia`
+- aggiunto comando `!floor-is`
+- aggiunto comando `!over-joke` 
+- aggiunto comando `!joke`
