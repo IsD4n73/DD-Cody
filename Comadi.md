@@ -139,6 +139,8 @@
 
 `!genpass` - Genera una password
 
+`!meteo <città>` - Mostra meteo della città 
+
 `!lista-film` - Mostra la lista dei film guardati
 
 `!add-film <film>` - Aggiungi film alla lista
