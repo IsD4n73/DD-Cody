@@ -60,6 +60,8 @@
 
 `!modlog <#canale>` - Setta il canale per il log 
 
+`!pnsfw <on/off>` - Attiva/disattiva il Plug-in NSFW
+
 
 # GENERALE
 
