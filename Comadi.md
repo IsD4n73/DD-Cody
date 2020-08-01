@@ -56,6 +56,8 @@
 
 `!welset <#canale> <msssaggio>` - Setta il messaggio di benvenuto 
 
+`!leaveset <#canale> <msssaggio>` - Setta il messaggio di uscita
+
 `!canale-suggerimenti <#canale>` - Setta il canale per i suggerimenti del server
 
 `!modlog <#canale>` - Setta il canale per il log 
