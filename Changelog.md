@@ -168,3 +168,13 @@
 - aggiunto comando `!floor-is`
 - aggiunto comando `!over-joke` 
 - aggiunto comando `!joke`
+
+### __**v1.27.2**__
+- aggiunto comando `!meteo`
+- aggiunto comando `!anal` 
+- aggiunto comando `!doge`
+- aggiunto comando `!spazzatura`
+- aggiunto comando `!bad`
+- aggiunto comando `!cat`
+- aggiunto comando `!food`
+- aggiunta possibilita di disattivare NSFW `!pnsfw`
