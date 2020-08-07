@@ -1,7 +1,7 @@
 # DD-Cody
 :exclamation: | PREFIX: !
 
-:white_check_mark: | +100 comandi
+:white_check_mark: | +200 comandi
 
 🇮🇹 | BOT ITALIANO
 
