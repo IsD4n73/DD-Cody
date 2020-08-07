@@ -115,6 +115,9 @@
 
 `!meteo  <città` - Mostra le previsioni della città
 
+`!calcola <n1> <SEGNO> <n2>` - Calcolatrice  portatile
+{**SEGNO**:  + (somma), - (sottrai),* (moltiplica), / (dividi)}
+
 
 
 # ALTRO
