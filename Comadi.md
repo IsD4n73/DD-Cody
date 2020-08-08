@@ -111,8 +111,6 @@
 
 `!piffero` - Mostra la lunghezza del piffero
 
-`!vota <messaggio>` - Effettua una votazione
-
 `!bolle` - Schiaccia un po di bolle per rilassarti
 
 `!meteo  <città` - Mostra le previsioni della città
