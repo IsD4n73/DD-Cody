@@ -178,3 +178,10 @@
 - aggiunto comando `!cat`
 - aggiunto comando `!food`
 - aggiunta possibilita di disattivare NSFW `!pnsfw`
+
+### __**v1.28**__
+- aggiunto comando `!meteo`
+- aggiunto comando `!leaveset`
+- aggiunto comando `!bolle`
+- aggiunto comando `!calcola`
+- fix bug vari
