@@ -64,6 +64,8 @@
 
 `!pnsfw <on/off>` - Attiva/disattiva il Plug-in NSFW
 
+`!antilink <on/off>` - Attiva/disattiva la protezione link
+
 
 # GENERALE
 
@@ -270,6 +272,12 @@
 `!difendi` - Difenditi durante un duello
 
 `!abbandona <@utente>` - Abbandona il duello con l'utente 
+
+`!lvl up` - Prova ad aumentare di livello
+
+`!lvl-top` - Vedi la classifica del server
+
+`!lvl info` - Informazioni sui livelli
 
 
 # IMMAGINI
