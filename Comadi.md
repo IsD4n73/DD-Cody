@@ -81,8 +81,6 @@
 
 `!remind <tempo> <messaggio>` - Manda un promemoria sulla chat 
 
-`!mywarn` - Mostra il numero di richiami che hai
-
 `!ticket <argomento>` - Apre un ticket per l'astistenza
 
 `!list` - Lista degli utenti nel server
@@ -180,8 +178,6 @@
 # ECONOMIA
 
 `!bal` - Mostra l'attuale conto
-
-`!soldi <@utente>` - Mostra i soldi di un utente
 
 `!with <somma/all>` - Preleva una somma di denaro
 
@@ -322,11 +318,21 @@
 
 `!cat` - Immagini random di gatti
 
+`!fox` - Immagini random di volpi
+
 `!doge <testo sopra>/<testo sotto>` - Crea il meme del doge
 
 `!bad <@utente>` - Dí all utente che è cattivo
 
 `!spazzatura <@utente>` - Butta qualcuno nella spazzatura 
+
+`!hex <codice>` - Mostra il colore dall hex 
+
+`!vecchio <messaggio1> / <messaggio2>` - Crea il meme del vecchetto con la tazza
+
+`!triggered <@utente>` - Triggera l'utente 
+
+`!wasted <@utente>` -  Massacra l'utente 
 
 **{NSFW}** `!ass` - Mostra fondoschiena
 
@@ -339,3 +345,7 @@
 **{NSFW}** `!nsfw` - Mostra random hentai
 
 **{NSFW}** `!anal` - Mostra random anal
+
+**{NSFW}** `!feet` - Mostra random feet
+
+**{NSFW}** `!spank` - Mostra random spanking
