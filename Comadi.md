@@ -50,9 +50,7 @@
 
 `!truolo <@utente> <@ruolo>` - Toglie il ruolo alla persona
 
-`!lockdown <lock/unlock>` - Blocca/sblocca il canale
-
-`!test <on/off>` - Avvisa che in quel canale c'è un test in corso 
+`!lockdown <lock/unlock>` - Blocca/sblocca il canale 
 
 `!welset <#canale> <msssaggio>` - Setta il messaggio di benvenuto 
 
@@ -304,11 +302,7 @@
 
 `!facts <messaggio>` - Trasforma il messaggio in un fact
 
-`!firma <firma>` - Firma tramite immagine
-
 `!ph <messaggio 1>/<messaggio 2>` - Trasforma il messaggio in un logo familiare
-
-`!img <testo>` - Trasforma il testo in un immagine
 
 `!unlock  <testo>` - Sblocca un trofeo :) 
 
