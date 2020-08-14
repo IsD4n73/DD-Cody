@@ -81,8 +81,6 @@
 
 `!ticket <argomento>` - Apre un ticket per l'astistenza
 
-`!list` - Lista degli utenti nel server
-
 `!afk <on/off>` -  Per settare il vostro status AFK  
 
 `!google <ricerca>` - Effettua una ricerca su Google 
@@ -129,6 +127,8 @@
 `!invite` - L'invito per il bot
 
 `!bot-stats` - Mostra le statistiche del bot
+
+`!server-info` - Mostra le informazioni del server
 
 `!community` - Mostra l'invito della community di CODY
 
