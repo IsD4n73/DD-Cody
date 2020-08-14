@@ -185,3 +185,10 @@
 - aggiunto comando `!bolle`
 - aggiunto comando `!calcola`
 - fix bug vari
+
+### __**v1. 29**__
+- aggiunto comando `!lvl up`
+- aggiunto comando `!lvl-top`
+- aggiunto comando `!lvl info`
+- aggiunto comando `!antilink`
+- cambiato comando `!io` > `!profilo`
