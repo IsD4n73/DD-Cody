@@ -16,7 +16,7 @@
 
 `!rpg-help` - Mostra comandi rpg
 
-`!immagini-help` - Mostra comandi pimmagini
+`!immagini-help` - Mostra comandi immagini
 
 `!comandi` - Mostra questa pagina
 
@@ -79,7 +79,7 @@
 
 `!anon <messaggio>` - Manda un messaggio anonimo in chat
 
-`!remind <tempo> <messaggio>` - Manda un promemoria sulla chat 
+`!remind <tempo> <messaggio>` - Manda un promemoria in chat 
 
 `!ticket <argomento>` - Apre un ticket per l'astistenza
 
@@ -120,13 +120,9 @@
 
 `!changelog` - Mostra gli aggiornamenti del bot
 
-`!help` - Mostra plugin dei comandi
-
-`!infobot` - Mostra alcune informazioni sul bot
-
 `!avatar <@user>` - Mostra l'immagine  di profilo dell utente menzionato
 
-`!invite` - L'invito per il bot
+`!invito` - L'invito per il bot
 
 `!bot-stats` - Mostra le statistiche del bot
 
@@ -136,10 +132,6 @@
 
 `!sep` - Aggiunge un separatore
 
-`!serverinfo` - Mostra informazioni sul server
-
-`!userinfo` - Mostra informazioni sull utente 
-
 `!user-stats` - Mostra statistiche utente
 
 `!sugg: <suggerimento>` - Suggerisci qualcosa al server 
@@ -147,8 +139,6 @@
 `!suggerisci <suggerimento>` - Suggerisci qualcosa al creatore del bot
 
 `!genpass` - Genera una password
-
-`!meteo <città>` - Mostra meteo della città 
 
 `!lista-film` - Mostra la lista dei film guardati
 
@@ -251,9 +241,7 @@
 
 # RPG
 
-`!io` - Mostra le statistiche personaggio 
-
-`!shop` - Mostra il negozio
+`!profilo` - Mostra le statistiche personaggio 
 
 `!buy <item>` - Compra un oggetto
 
@@ -290,7 +278,7 @@
 
 `!b&n <@utente>` - Fai l'avatar dell'utente in bianco e nero
 
-`!blur <@utente>` - Fai l'avatar dell'utente con ka sfocatura
+`!blur <@utente>` - Fai l'avatar dell'utente con la sfocatura
 
 `!magia <@utente>` - Fai l'avatar dell'utente magico
 
