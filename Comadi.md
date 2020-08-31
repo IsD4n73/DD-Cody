@@ -318,6 +318,10 @@
 
 `!wasted <@utente>` -  Massacra l'utente 
 
+`!rip <@utente>` - Crea la tomba dell'utente
+
+`!clyde <messaggio>` - Un messaggio da discord
+
 **{NSFW}** `!ass` - Mostra fondoschiena
 
 **{NSFW}** `!boobs` - Mostra pere
