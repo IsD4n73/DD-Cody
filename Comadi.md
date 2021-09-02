@@ -114,6 +114,7 @@
 `!calcola <n1> <SEGNO> <n2>` - Calcolatrice  portatile
 {**SEGNO**:  + (somma), - (sottrai),* (moltiplica), / (dividi)}
 
+`!hack` - Hackera password ed email
 
 
 # ALTRO
@@ -264,36 +265,6 @@
 
 # IMMAGINI
 
-`!sale <@utente>` -  Versa del sale sull utente
-
-`!gay <@utente>` - Fai l'avatar dell'utente gay
-
-`!inverti <@utente>` - Inverti l'avatar dell'utente
-
-`!neve <@utente>` - Fai l'avatar dell'utente con la neve
-
-`!comunista <@utente>` - Fai l'avatar dell'utente comunista
-
-`!deepfry <@utente>` - Fai l'avatar dell'utente deepfry
-
-`!b&n <@utente>` - Fai l'avatar dell'utente in bianco e nero
-
-`!blur <@utente>` - Fai l'avatar dell'utente con la sfocatura
-
-`!magia <@utente>` - Fai l'avatar dell'utente magico
-
-`!floor-is <messaggio>` - Il pavimento è...
-
-`!over-joke <@utente>` - Fai passare lo scherzo sulla testa
-
-`!joke <@utente>` - "Ti sembra che sto scherzando"
-
-`!drake <messaggio1> - <messagio2>` - Trasforma i messaggi nel meme di drake
-
-`!facts <messaggio>` - Trasforma il messaggio in un fact
-
-`!ph <messaggio 1>/<messaggio 2>` - Trasforma il messaggio in un logo familiare
-
 `!unlock  <testo>` - Sblocca un trofeo :) 
 
 `!logo <frase>` - Trasforma la frase in un logo
@@ -306,17 +277,9 @@
 
 `!doge <testo sopra>/<testo sotto>` - Crea il meme del doge
 
-`!bad <@utente>` - Dí all utente che è cattivo
-
-`!spazzatura <@utente>` - Butta qualcuno nella spazzatura 
-
 `!hex <codice>` - Mostra il colore dall hex 
 
 `!vecchio <messaggio1> / <messaggio2>` - Crea il meme del vecchetto con la tazza
-
-`!triggered <@utente>` - Triggera l'utente 
-
-`!wasted <@utente>` -  Massacra l'utente 
 
 `!rip <@utente>` - Crea la tomba dell'utente
 
@@ -326,14 +289,6 @@
 
 **{NSFW}** `!boobs` - Mostra pere
 
-**{NSFW}** `!hass` - Mostra fondoschiena hentai
-
-**{NSFW}** `!hboobs` - Mostra pere hentai
-
-**{NSFW}** `!nsfw` - Mostra random hentai
-
 **{NSFW}** `!anal` - Mostra random anal
 
 **{NSFW}** `!feet` - Mostra random feet
-
-**{NSFW}** `!spank` - Mostra random spanking
