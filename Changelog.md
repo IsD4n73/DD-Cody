@@ -192,3 +192,18 @@
 - aggiunto comando `!lvl info`
 - aggiunto comando `!antilink`
 - cambiato comando `!io` > `!profilo`
+
+### __**v1.30**__
+-aggiunto comando `!antilink`
+-aggiunto comando `!hex`
+-aggiunto comando `!triggered`
+-aggiunto comando `!wasted`
+-aggiunto comando `!spank`
+-aggiunto comando `!feet`
+
+### __**v1.31**__
+-aggiunto comando `!hack`
+-rimossi comandi obsoleti:
+```
+molte delle api sono offline di conseguenza i comandi delle immagini non funzionanti sono stati rimossi
+```
