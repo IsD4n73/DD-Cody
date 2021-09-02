@@ -116,6 +116,8 @@
 
 `!hack` - Hackera password ed email
 
+`!testo-canzone <titolo>` - Ricerca il testo di una canzone
+
 
 # ALTRO
 
