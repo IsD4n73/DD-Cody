@@ -203,6 +203,7 @@
 
 ### __**v1.31**__
 - aggiunto comando `!hack`
+- aggiunto comando `!testo-canzone`
 - rimossi comandi obsoleti:
 ```
 molte delle api sono offline di conseguenza i comandi delle immagini non funzionanti sono stati rimossi
