@@ -114,9 +114,11 @@
 `!calcola <n1> <SEGNO> <n2>` - Calcolatrice  portatile
 {**SEGNO**:  + (somma), - (sottrai),* (moltiplica), / (dividi)}
 
-`!hack` - Hackera password ed email
+`!twd` - Mostra le informazioni delle serie tv The Walking Dead
 
-`!testo-canzone <titolo>` - Ricerca il testo di una canzone
+`!f1` - Mostra la classifica e le gare di Formula 1
+
+`!testo-canzone <titolo>` - Restituisce il testo di una canzo ne`!testo-canzone <titolo>` - Ricerca il testo di una canzone
 
 
 # ALTRO
@@ -267,7 +269,22 @@
 
 # IMMAGINI
 
+*`!smart <@utente>` - Fai l'avatar dell'utente intelligente
+
+
+*`!among <@utente>` - Vedi se l utente è sospetto
+
+*`!gun <@utente>` - Dai all utente la pistola
+
+*`!wasted <@utente>` - Morte di gta5
+
+*`!bad <@utente>` - Rimprovera l'utente
+
+*`!gay <@utente>` - Fai diventare l'utente gay
+
 `!unlock  <testo>` - Sblocca un trofeo :) 
+
+`!clyde <messaggio>` - Un messaggio da discord
 
 `!logo <frase>` - Trasforma la frase in un logo
 
@@ -279,13 +296,9 @@
 
 `!doge <testo sopra>/<testo sotto>` - Crea il meme del doge
 
-`!hex <codice>` - Mostra il colore dall hex 
-
 `!vecchio <messaggio1> / <messaggio2>` - Crea il meme del vecchetto con la tazza
 
-`!rip <@utente>` - Crea la tomba dell'utente
-
-`!clyde <messaggio>` - Un messaggio da discord
+`!rip <@utente>` - Fai la tomba all utente
 
 **{NSFW}** `!ass` - Mostra fondoschiena
 
@@ -294,3 +307,5 @@
 **{NSFW}** `!anal` - Mostra random anal
 
 **{NSFW}** `!feet` - Mostra random feet
+
+**{NSFW}** `!spank` - Mostra random spank
